@@ -1,47 +1,52 @@
-# Temitayo Ogunwale
-### Web & App Development | Web3 Security Research
+# WRRE Web3 Security Portfolio
 
-I'm a software developer interested in building reliable digital products and strengthening the security of Web3 applications. My background in web and app development informs my approach to understanding application architecture, identifying weaknesses, testing assumptions, and improving software reliability.
+**Temitayo Ogunwale | Web3 Security Research | Smart Contract Auditing | Verification Engineering**
 
-I'm developing a focused portfolio in smart contract security, adversarial testing, and verification-driven auditing.
+I work at the intersection of Web3 security research, mathematical reasoning, software verification, and automated analysis.
 
-## Technical Focus
+I develop and use **WRRE (Wallet Rescue Research Engine)** as part of an audit workflow combining engine-assisted investigation with manual review and verification.
 
-- Web and application development
-- Web3 and smart contract security
-- Solidity and EVM security fundamentals
-- Smart contract testing with Foundry
-- Vulnerability research and responsible disclosure
-- Invariant testing, mathematical reasoning, and software verification
+I have used this workflow across **15+ audit or security-assessment engagements** involving smart contracts, protocols, and wallet/cryptographic systems. Most underlying engagement records are confidential, so this portfolio focuses on methodology, reproducible demonstrations, and material that can be disclosed responsibly.
 
-## Current Priorities
+## Research Focus
 
-- Building practical smart contract security projects.
-- Studying common DeFi vulnerabilities and attack patterns.
-- Writing reproducible security tests and clear audit reports.
-- Practising remediation validation and regression testing.
+- Smart contract and EVM security
+- DeFi protocol logic, access control, and accounting
+- Wallet and cryptographic-system security research
+- Automated analysis combined with manual validation
+- Invariant-oriented testing and software verification
+- Vulnerability reproduction and remediation validation
 
-## How I Approach Security
+## WRRE — Research Engine
 
-1. Understand the system architecture and trust boundaries.
-2. Identify assumptions and potential attack surfaces.
-3. Develop reproducible tests for suspected vulnerabilities.
-4. Validate findings and document realistic impact.
-5. Recommend fixes and test whether they address the issue.
+WRRE is my research-engineering project focused on mathematical reasoning, structured analysis, and verification.
+
+I use WRRE to support security investigations, evaluate hypotheses, and examine system behaviour. Engine outputs are treated as evidence to investigate—not as automatic proof that a vulnerability exists.
+
+My audit workflow combines this research capability with manual assessment, reproducible testing, and impact validation.
+
+## Audit Methodology
+
+1. Establish scope, permissions, architecture, and trust boundaries.
+2. Investigate attack surfaces and security assumptions.
+3. Form hypotheses and develop reproducible tests.
+4. Validate findings and realistic impact within authorised environments.
+5. Document evidence, severity rationale, limitations, and remediation.
+6. Retest fixes and preserve regression tests where possible.
 
 ## Portfolio
 
-My Web3 security portfolio will include independent research projects, test cases, findings, and remediation notes as the work is completed and validated.
+- **Methodology:** My structured, verification-driven audit workflow.
+- **Controlled research:** Reproducible demonstrations using purpose-built examples.
+- **Case studies:** Sanitised research write-ups published only when disclosure is permitted.
 
-## Collaboration
+## Professional Engagements
 
-I'm interested in connecting with Web3 developers, security researchers, audit firms, and protocol teams for appropriately scoped security research and smart contract review engagements.
+Open to appropriately scoped smart contract security reviews, audit competitions, Web3 security research, and protocol assurance collaborations.
 
 **GitHub:** https://github.com/temitayoogunwale2
 
----
-
-*Security testing is performed only in authorised environments. Independent research is labelled accurately and is not presented as a client audit.*
+*This portfolio does not publish confidential client material. Engagements and findings are described only to the extent supported by evidence and permitted by disclosure requirements.*
 
 
 <!--
